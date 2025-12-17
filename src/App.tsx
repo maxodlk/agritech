@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-green-900 to-gray-900 text-white overflow-x-hidden">
-      <div className="fixed inset-0 bg-[url('https://images.pexels.com/photos/2252618/pexels-photo-2252618.jpeg?auto=compress&cs=tinysrgb&w=1920')] bg-cover bg-center opacity-10 pointer-events-none"></div>
+      <div className="fixed inset-0 bg-[url('./arton20001.jpg')] bg-cover bg-center opacity-10 pointer-events-none"></div>
 
       <nav className="relative z-50 backdrop-blur-md bg-white/5 border-b border-white/10">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
