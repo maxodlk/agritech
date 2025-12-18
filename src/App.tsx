@@ -199,7 +199,7 @@ function App() {
               <div className="relative">
                 <div className="backdrop-blur-xl bg-white/5 rounded-3xl border border-white/10 p-4 overflow-hidden">
                   <img
-                    src="src/imgrubagri.jpg"
+                    src="src/culture.jpg"
                     alt="Agriculture moderne au Bénin"
                     className="w-full h-[500px] object-cover rounded-2xl"
                   />
